@@ -1,10 +1,12 @@
 # My Answers
 
 ## 1. My GitHub link
-(paste it here later)
+https://github.com/gianlawrencelauro-lang/flutter_basics_lab.git
 
 ## 2. The 3 build() lines from Activity 2
-(paste them here)
+build() called: 4 glasses
+build() called: 5 glasses
+build() called: 6 glasses
 
 ## 3. What I saw in my experiments
 - Activity 2 (moved _glasses++ outside setState): I tapped + and the number on the screen did not change. The count changed behind the scenes, but Flutter was never told to redraw the screen.
